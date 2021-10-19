@@ -1,2 +1,5 @@
+# Exclude the website, this will be built clean and deployed after a push
+build/
+
 # Visual Studio Code
 *.code-workspace
