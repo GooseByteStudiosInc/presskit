@@ -1,8 +1,2 @@
-# The website output folder
-build
-
-# The temp folder
-.temp/
-
 # Visual Studio Code
 *.code-workspace
