@@ -1,52 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-  <title></title>
-  <based-in></based-in>
-  <founding-date></founding-date>
-  <website></website>
+  <title>Goose Byte</title>
+  <based-in>Montreal, QC, Canada</based-in>
+  <founding-date>2021-09-13</founding-date>
+  <website>https://www.goosbyte.games</website>
   <press-contact>
-    <!-- Mail address -->
+    Theodor Diea
   </press-contact>
 
   <!-- Google analytics ID: -->
-  <analytics></analytics>
+  <analytics>G-5VYJ4YPBQX</analytics>
 
-  <phone></phone>
+  <phone>+1-514-451-3488</phone>
   <address>
     <line>
       <!-- Street -->
+      5741 Cartier St
     </line>
     <line>
       <!-- City -->
+      Montreal, QC
     </line>
     <line>
       <!-- Country -->
+      Canada
     </line>
   </address>
 
   <socials>
     <social>
-      <name></name>
+      <name>Twitter</name>
       <link>
-        <!-- URL starting with http or https -->
+        https://twitter.com/GooseByteGames
       </link>
     </social>
   </socials>
 
-  <description></description>
+  <description>
+    This is our presskit description! 
+  </description>
 
-  <!-- Choose between a single block: -->
-  <history></history>
-
-  <!-- Or multiple blocks: -->
-  <!--
   <histories>
     <history>
-      <header></header>
-      <text></text>
+      <header>History 1</header>
+      <text>blah blah blah blah blah blah</text>
+    </history>
+    <history>
+      <header>History 2</header>
+      <text>blah blah blah blah blah blah</text>
     </history>
   </histories>
-  -->
 
   <trailers>
     <trailer>
@@ -62,47 +65,32 @@
     </trailer>
   </trailers>
 
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
-
   <quotes>
     <quote>
-      <description></description>
-      <name></name>
-      <website></website>
+      <description>Nathans Tip of the day</description>
+      <name>Tip1</name>
+      <website>www.bing.com</website>
       <link></link>
     </quote>
   </quotes>
 
   <additionals>
     <additional>
-      <title></title>
-      <description></description>
-      <link></link>
+      <title>PR Release</title>
+      <description>Future link to the official press release for the studio</description>
+      <link>www.google.com</link>
     </additional>
   </additionals>
 
-  <credits>
-    <credit>
-      <person></person>
-      <role></role>
-
-      <!-- Optional: -->
-      <website></website>
-    </credit>
-  </credits>
 
   <contacts>
     <contact>
-      <name></name>
-
-      <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <name>Theodor Diea</name>
+      <mail>theo@goosebyte.games</mail>
+    </contact>
+    <contact>
+      <name>Nathan Ross Powell</name>
+      <mail>nathan@goosebyte.games</mail>
     </contact>
   </contacts>
 </company>
