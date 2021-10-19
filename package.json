@@ -1,0 +1,19 @@
+{
+  "name": "presskit",
+  "version": "1.0.0",
+  "description": "Press information for the company and all it's products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GooseByteStudiosInc/presskit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GooseByteStudiosInc/presskit/issues"
+  },
+  "homepage": "https://github.com/GooseByteStudiosInc/presskit#readme"
+}
