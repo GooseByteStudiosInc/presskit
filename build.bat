@@ -1,1 +1,1 @@
-presskit build
+node ./node_modules/presskit/bin/presskit-build.js
