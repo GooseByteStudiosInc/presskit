@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GooseByteStudiosInc/presskit/issues"
   },
-  "homepage": "https://github.com/GooseByteStudiosInc/presskit#readme"
+  "homepage": "https://github.com/GooseByteStudiosInc/presskit#readme",
+  "dependencies": {
+    "presskit": "^0.13.0"
+  }
 }
