@@ -26,12 +26,6 @@
 
   <socials>
     <social>
-      <name>LinkedIn (Goose Byte)</name>
-      <link>
-        https://www.linkedin.com/company/goose-byte
-      </link>
-    </social>
-    <social>
       <name>Twitter (@GooseByteGames)</name>
       <link>
         https://twitter.com/GooseByteGames
@@ -47,6 +41,12 @@
       <name>Facebook (@GooseByteGames)</name>
       <link>
         https://facebook.com/GooseByteGames
+      </link>
+    </social>
+    <social>
+      <name>LinkedIn (Goose Byte)</name>
+      <link>
+        https://www.linkedin.com/company/goose-byte
       </link>
     </social>
     <social>
