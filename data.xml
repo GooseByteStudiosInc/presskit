@@ -5,11 +5,13 @@
   <founding-date>September, 2021</founding-date>
   <website>https://www.goosebyte.games</website>
   <press-contact>
-    Theodor Diea
+    contact@goosebyte.games
   </press-contact>
 
   <!-- Google analytics ID: -->
   <analytics>G-5VYJ4YPBQX</analytics>
+
+  <phone>none</phone>
 
   <address>
     <line>
@@ -24,41 +26,73 @@
 
   <socials>
     <social>
-      <name>Twitter</name>
+      <name>Twitter (@GooseByteGames)</name>
       <link>
         https://twitter.com/GooseByteGames
+      </link>
+    </social>
+    <social>
+      <name>Instagram (@GooseByteGames)</name>
+      <link>
+        https://instagram.com/GooseByteGames
+      </link>
+    </social>
+    <social>
+      <name>Facebook (@GooseByteGames)</name>
+      <link>
+        https://facebook.com/GooseByteGames
+      </link>
+    </social>
+    <social>
+      <name>LinkedIn (Goose Byte)</name>
+      <link>
+        https://www.linkedin.com/company/goose-byte
+      </link>
+    </social>
+    <social>
+      <name>LinkedIn (Theodor)</name>
+      <link>
+        https://ca.linkedin.com/in/theodordiea
+      </link>
+    </social>
+    <social>
+      <name>LinkedIn (Nathan)</name>
+      <link>
+        https://linkedin.com/in/nathanrosspowell
       </link>
     </social>
   </socials>
 
   <description>
-    This is our presskit description! 
+    Goose Byte is meant to be a bold breath of fresh air for developers in a city that is simply burgeoning with game development talent. We’re building a studio around the concepts of trust, respect, inclusivity, sustainability, and a healthy dose of ambition.
   </description>
 
   <histories>
     <history>
-      <header>History 1</header>
-      <text>blah blah blah blah blah blah</text>
+      <header>Bio - Theodor Diea</header>
+      <text>
+        Theodor Diea, together with his family, escaped an oppressive Communist Romanian regime and were granted asylum in the US in 1985. Uprooting and needing to adjust to a new language and culture was a lot to overcome, but video games helped Theo gain a sense of control and quickly became an instrument for socializing and adaptation. From these early transformative years, he knew his life would revolve around games. 
+      </text> </history> <history> <text>
+        Theo’s career in games started with modest beginnings. He worked at GameStop from the launch of the original Xbox, all the way through to the launch of the 360. After completing his degree, he broke into the industry by joining Ubisoft as an Internal Communications Coordinator. “That was a really proud moment for me”, recalls Theo. “It was a dream come true to finally reach the other side of this invisible wall, but somehow it felt a bit empty. Something was missing.”
+      </text> </history> <history> <text>
+        Yearning to get closer to game development, he joined the Ubisoft Paris Studio as a Development Tester on Ghost Recon Future Soldier. From there, he steadily branched out into new roles, looking to learn and contribute as much as possible, taking on roles in Marketing, Live Operations, and Producing. Theo has 9 released titles, including a three in the Just Dance franchise, indie surprise Mother Russia Bleeds, and some of the world’s most recognizable mobile brands, such as Brave Frontier and Modern Combat. 
+      </text> </history> <history> <text>
+        Having shipped console, pc, mobile, AAA, casual, and indie titles, and having worked with game teams as small as 4 and as large as 200, Theo became determined to try and take the best elements of each of his experiences and wrap those up into a studio. The result of that is Goose Byte. 
+      </text>
     </history>
+
     <history>
-      <header>History 2</header>
-      <text>blah blah blah blah blah blah</text>
+      <header>Bio - Nathan Ross Powell</header>
+      <text>
+          Nathan Ross Powell is a proud father and husband and serves as the technical backbone of Goose Byte. Growing up in England, Nathan was a perpetual tinkerer, building everything from skateboards to Warhammer models. He decided to translate this passion for crafting into a Computer Science degree, focusing on procedurally generated solutions for complex terrain designs. Nathan started his professional career 15 years ago, when he was snapped up as a programmer by Eutechnyx, a then-stalwart development studio in the UK racing games industry. 
+      </text> </history> <history> <text>
+          S hortly thereafter, Nathan joined Codemasters. There, he doubled down on data driven component architectures, and worked on the team’s replication code for smoother multiplayer performance in both DiRT Showdown and Operation Flashpoint: Red River. Needing a break from racing games, Nathan looked beyond the rainy shores of England for his next challenge.
+          Ubisoft Montreal took note of Nathan’s unique skill set and enlisted him to help shape the technology of their brand-new Watch Dogs IP. The pioneering one-way seamless online tech powering Watch Dogs’ multiplayer was spearheaded by Nathan, and he expanded on this by re-writing the online engine systems to enable a two-way seamless experience for Watch Dogs 2. After some work on Watch Dogs: Legion, Nathan took on the role of Technical Lead role for an unannounced project, owning the technical vision for a group of 60 programmers worldwide. “Leading the technical vision for a project from the ground up was an amazing experience! It was reinvigorating and led me to want to have a more meaningful, positive impact in the day-to-day lives of my colleagues.” 
+      </text> </history> <history> <text>
+          Armed with the knowledge and experience gained through 6 successful projects and determined to provide leadership and a sense of empowerment to his team, Nathan chose to embark on a thrilling new journey with the founding of Goose Byte. “It’s exciting to be in a position where we can focus on what matters. No need to reinvent the wheel. Use technology that already is proven to work. Focus on people and working together in a smart way. I feel we’re part of a new wave of studios that can offer the best of all worlds to developers.”
+      </text>
     </history>
   </histories>
-
-  <trailers>
-    <trailer>
-      <name></name>
-
-      <!-- Pick one: -->
-      <youtube>
-        <!-- Video ID only, not the full URL -->
-      </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
-    </trailer>
-  </trailers>
 
   <quotes>
     <quote>
@@ -80,11 +114,11 @@
 
   <contacts>
     <contact>
-      <name>Theodor Diea</name>
+      <name>Theodor Diea - CEO</name>
       <mail>theo@goosebyte.games</mail>
     </contact>
     <contact>
-      <name>Nathan Ross Powell</name>
+      <name>Nathan Ross Powell - CTO</name>
       <mail>nathan@goosebyte.games</mail>
     </contact>
   </contacts>
