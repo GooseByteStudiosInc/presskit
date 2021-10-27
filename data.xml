@@ -105,9 +105,14 @@
 
   <additionals>
     <additional>
-      <title>PR Release</title>
-      <description>Future link to the official press release for the studio</description>
-      <link>www.google.com</link>
+      <title>Goose Byte Culture</title>
+      <description>A deeper dive into the culture we're building.</description>
+      <link>https://www.goosebyte.games/culture</link>
+    </additional>
+    <additional>
+      <title>Goose Byte Contact</title>
+      <description>Additional info on how to connect with us.</description>
+      <link>https://www.goosebyte.games/contact</link>
     </additional>
   </additionals>
 
