@@ -98,7 +98,7 @@
     <quote>
       <description>Nathans Tip of the day</description>
       <name>Tip1</name>
-      <website>www.bing.com</website>
+      <website>https://www.bing.com</website>
       <link></link>
     </quote>
   </quotes>
@@ -107,7 +107,7 @@
     <additional>
       <title>PR Release</title>
       <description>Future link to the official press release for the studio</description>
-      <link>www.google.com</link>
+      <link>https://www.google.com</link>
     </additional>
   </additionals>
 
