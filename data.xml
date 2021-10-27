@@ -96,10 +96,22 @@
 
   <quotes>
     <quote>
-      <description>Nathans Tip of the day</description>
-      <name>Tip1</name>
-      <website>www.bing.com</website>
-      <link></link>
+      <description>We’re free to pursue a truly unique vision that is sure to delight and inspire our players around the world. We can’t wait to share more!</description>
+      <name>Theodor Diea</name>
+      <website>Press Release</website>
+      <link>https://bing.com</link>
+    </quote>
+    <quote>
+      <description>Ensuring developers have the best possible work environment is key. This allows us to focus time on the topics that matter most to players.</description>
+      <name>Nathan Ross Powell</name>
+      <website>Press Release</website>
+      <link>https://bing.com</link>
+    </quote>
+    <quote>
+      <description>...</description>
+      <name>Mr. CEO</name>
+      <website>Press Release</website>
+      <link>https://bing.com</link>
     </quote>
   </quotes>
 
